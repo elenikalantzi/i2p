@@ -6,7 +6,7 @@ Size: Wide
 ---
 Layout: Title
 Background: ./img/CASA_Logo_no_text.png
-# Getting Oriented
+####### Getting Oriented
 ### Key information to get you started...
 
 ^ This presentation contains key contact and delivery information about the module.
