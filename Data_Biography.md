@@ -4,7 +4,7 @@
 
 ### 1. Who collected the data?
 
-The Inside Airbnb website and especially his founder Murray Cox, has collected data from the official Airbnb website for listings available for London [1].
+The Inside Airbnb website and especially his founder Murray Cox, has collected data from the official Airbnb website for listings available for London [1][http://insideairbnb.com/behind.html].
 
 ---
 
@@ -59,9 +59,9 @@ The data is complete to some extent, but not entirely. Surely, they provide impo
 
 The kinds of analysis that the data could support are:
 <br />1. Exploratory Data Analysis which allows to perform [7]:
-<br />a. Spatial Analysis, which with the use of location and geographical coordinates can produce maps related to the spatial concentration of accommodation, the degree of saturation of each neighbourhood, the spatial distribution of prices, etc. [5]
-<br />b. Descriptive statistical analysis, with which we can describe and illustrate qualitative and quantitative characteristics such as the average price of rental costs, the frequency (f) of the occurrence of a host or a type of accommodation, the standard deviation, etc. [4]
-<br />c. ANOVA to examine the relationship between quality and price, supply and demand, etc. [4]
+<br />  a. Spatial Analysis, which with the use of location and geographical coordinates can produce maps related to the spatial concentration of accommodation, the degree of saturation of each neighbourhood, the spatial distribution of prices, etc. [5]
+<br />  b. Descriptive statistical analysis, with which we can describe and illustrate qualitative and quantitative characteristics such as the average price of rental costs, the frequency (f) of the occurrence of a host or a type of accommodation, the standard deviation, etc. [4]
+<br />  c. ANOVA to examine the relationship between quality and price, supply and demand, etc. [4]
 <br />2. Content Analysis, which based on the reviews of the guests can be used to evaluate the quality of the services provided, to analyse the profile of the hosts, etc. [6]
 
 ---
