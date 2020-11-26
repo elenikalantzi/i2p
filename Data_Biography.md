@@ -10,12 +10,12 @@ The Inside Airbnb website and especially his founder Murray Cox, has collected d
 
 ### 2. Why did they collect it?
 
-The data was collected to show the impact that Airbnb has on London's residential communities and to explain how the provision of Airbnb rooms, houses and entire apartments disrupts residential housing and doesn’t follow the principles of the sharing economy, as most hosts have more than one listing [2].
+The data was collected to show the impact that Airbnb has on London's residential communities and to explain how the provision of Airbnb rooms, houses and entire apartments disrupts residential housing and doesn’t follow the principles of the sharing economy, as most hosts have more than one listing [[2]](http://insideairbnb.com/about.html).
 
 ---
 ### 3. How was it collected?
 
-The data collection method is the occupancy model, based on the following parameters [2], [3]:
+The data collection method is the occupancy model, based on the following parameters [[2]](http://insideairbnb.com/about.html), [[3]](http://insideairbnb.com/london/):
 <br />• Measurement of the number of nights booked or available per year for high availability
 <br />• A frequently rented filter of 90 days per year
 <br />• Usage of 50% review rate to convert reviews into estimated bookings.
@@ -51,7 +51,7 @@ The useful missing information is:
 
 ### 6. To what extent is the data 'complete'?
 
-The data is complete to some extent, but not entirely. Surely, they provide important spatial information to see the characteristics of the most sought-after areas and where gentrification occurs [14], but do not reveal the real impact of Airbnb on the daily life of the residents. Also, while providing financial data, amenities and occupancy that allow to analyse the impact of Airbnb on the real estate market and hotel activity, there is no data on the taxes that hosts have to pay, in order to calculate their net income and make comparisons [13]. In addition, we are not aware of the existence of illegal listings, so their total number may be different, creating a distorted picture of active accommodation. Finally, the data provided is a snapshot of August 2020 and does not reflect the evolution of short-term leasing over time. Thus, the data do not fulfil 100% of the purpose for which they were collected.
+The data is complete to some extent, but not entirely. Surely, they provide important spatial information to see the characteristics of the most sought-after areas and where gentrification occurs [14], but do not reveal the real impact of Airbnb on the daily life of the residents. Also, while providing financial data, amenities and occupancy that allow to analyse the impact of Airbnb on the real estate market and hotel activity, there is no data on the taxes that hosts have to pay, in order to calculate their net income and make comparisons [[13]](https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities). In addition, we are not aware of the existence of illegal listings, so their total number may be different, creating a distorted picture of active accommodation. Finally, the data provided is a snapshot of August 2020 and does not reflect the evolution of short-term leasing over time. Thus, the data do not fulfil 100% of the purpose for which they were collected.
 
 ---
 
@@ -59,17 +59,17 @@ The data is complete to some extent, but not entirely. Surely, they provide impo
 
 The kinds of analysis that the data could support are:
 <br />1. Exploratory Data Analysis which allows to perform [7]:
-  <br />a. Spatial Analysis, which with the use of location and geographical coordinates can produce maps related to the spatial concentration of accommodation, the degree of saturation of each neighbourhood, the spatial distribution of prices, etc. [5]
-<br />  b. Descriptive statistical analysis, with which we can describe and illustrate qualitative and quantitative characteristics such as the average price of rental costs, the frequency (f) of the occurrence of a host or a type of accommodation, the standard deviation, etc. [4]
-<br />  c. ANOVA to examine the relationship between quality and price, supply and demand, etc. [4]
-<br />2. Content Analysis, which based on the reviews of the guests can be used to evaluate the quality of the services provided, to analyse the profile of the hosts, etc. [6]
+  <br />a. Spatial Analysis, which with the use of location and geographical coordinates can produce maps related to the spatial concentration of accommodation, the degree of saturation of each neighbourhood, the spatial distribution of prices, etc. [[5]](http://www.columbia.edu/~sg3637/airbnb_final_analysis.html)
+<br />  b. Descriptive statistical analysis, with which we can describe and illustrate qualitative and quantitative characteristics such as the average price of rental costs, the frequency (f) of the occurrence of a host or a type of accommodation, the standard deviation, etc. [[4]](https://medium.com/code-heroku/introduction-to-exploratory-data-analysis-eda-c0257f888676)
+<br />  c. ANOVA to examine the relationship between quality and price, supply and demand, etc. [[4]](https://medium.com/code-heroku/introduction-to-exploratory-data-analysis-eda-c0257f888676)
+<br />2. Content Analysis, which based on the reviews of the guests can be used to evaluate the quality of the services provided, to analyse the profile of the hosts, etc. [[6]](https://humansofdata.atlan.com/2018/09/qualitative-quantitative-data-analysis-methods/#Qualitative_Data_Analysis_Methods)
 
 ---
 
 ### 8. What kinds of analysis would it _not_ support?
 
 The types of analysis that research cannot support are:
-<br />1. Empirical/Narrative analysis, as the data collected is directly from the Airbnb website and no experiential research carried out such as questionnaires for permanent residents, interviews with hosts, on-the-spot verification of illegal accommodation, etc. [6]
+<br />1. Empirical/Narrative analysis, as the data collected is directly from the Airbnb website and no experiential research carried out such as questionnaires for permanent residents, interviews with hosts, on-the-spot verification of illegal accommodation, etc. [[6]](https://humansofdata.atlan.com/2018/09/qualitative-quantitative-data-analysis-methods/#Qualitative_Data_Analysis_Methods)
 <br />2. Predictive data analysis, as the data refers to a specific month and year, while to make a correct prediction of the rate of increase or decrease of short-term accommodation and possible correlation with the reduction of available long-term lease properties we need data from previous years. We also need all the months of the year to predict seasonality.
 
 ---
@@ -77,7 +77,7 @@ The types of analysis that research cannot support are:
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
 
 In terms of spatial analysis, hosts can provide their coordinates on the platform so that guests can locate the accommodation, but they do not have them available to all website’s visitors for security reasons, so it is not ethical to use the exact coordinates, especially when hosts are unaware of the survey [9]. Perhaps a more approximate mapping would not violate the rules of ethics.
-<br />Regarding the financial data analysed by descriptive statistics and ANOVA, they allow us to outline the financial profile of the hosts (income, number of properties to be rented, etc.), but without their awareness. Also, the use of the host's photo, description, name and other details in combination with other data used by the researcher may reveal sensitive information about the host [8]. This is a "violation" of their personal data, so it would be good to remove or modify them so as not to target someone's profile. Furthermore, concerning users’ reviews, since they have written them voluntarily to help other users, it is not considered "immoral" to use them for research purposes that will help even more people [10].
+<br />Regarding the financial data analysed by descriptive statistics and ANOVA, they allow us to outline the financial profile of the hosts (income, number of properties to be rented, etc.), but without their awareness. Also, the use of the host's photo, description, name and other details in combination with other data used by the researcher may reveal sensitive information about the host [8]. This is a "violation" of their personal data, so it would be good to remove or modify them so as not to target someone's profile. Furthermore, concerning users’ reviews, since they have written them voluntarily to help other users, it is not considered "immoral" to use them for research purposes that will help even more people [[10]]([10]).
 <br />If we were conducting an empirical analysis, all those involved would have to fill out a consent form to participate in the research, so there would be no "ethical" problem [11]. At the same time, in predictive data analysis because the result produced is estimated and may be far from accurate, the researcher has to state that he is not responsible for any difference between the estimation and reality, in order to be ethically correct.
 <br />Overall, although the types of analysis in Q.7,8 use a dataset that provides personal information and can yield "shocking truths" or misleading results, the researcher must be critical and use them in a way that does not affect human dignity [12].
 
