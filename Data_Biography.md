@@ -4,7 +4,7 @@
 
 ### 1. Who collected the data?
 
-The Inside Airbnb website and especially his founder Murray Cox, has collected data from the official Airbnb website for listings available for London [1].
+The Inside Airbnb website and especially his founder Murray Cox, has collected data from the official Airbnb website for listings available for London [@1].
 
 ---
 
@@ -85,7 +85,7 @@ In terms of spatial analysis, hosts can provide their coordinates on the platfor
 
 ### Appendix
 
-[1] Inside Airbnb, “Behind Inside Airbnb,” Inside Airbnb, 2015. http://insideairbnb.com/behind.html.
+[@1] Inside Airbnb, “Behind Inside Airbnb,” Inside Airbnb, 2015. http://insideairbnb.com/behind.html.
 <br />[2] Inside Airbnb, “About Inside Airbnb,” Inside Airbnb, 2015. http://insideairbnb.com/about.html.
 <br />[3] Inside Airbnb, “Inside Airbnb: London. Adding data to the debate.,” Inside Airbnb. http://insideairbnb.com/london/.
 <br />[4] C. Heroku, “Introduction to Exploratory Data Analysis (EDA),” Medium, Mar. 25, 2019. https://medium.com/code-heroku/introduction-to-exploratory-data-analysis-eda-c0257f888676 (accessed Nov. 22, 2020).
