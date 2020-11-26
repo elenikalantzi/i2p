@@ -4,7 +4,7 @@
 
 ### 1. Who collected the data?
 
-The Inside Airbnb website and especially his founder Murray Cox, has collected data from the official Airbnb website for listings available for London [1](http://insideairbnb.com/behind.html).
+The Inside Airbnb website and especially his founder Murray Cox, has collected data from the official Airbnb website for listings available for London [[1]](http://insideairbnb.com/behind.html).
 
 ---
 
